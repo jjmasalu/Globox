@@ -1,0 +1,6 @@
+# resource links
+
+google sheets link (if applicable):
+python notebook link (if applicable):
+tableau public link:
+presentation video link:
